@@ -1,0 +1,1 @@
+I wrote the files ./Assets/Code/target.cs and ./Assets/Code/PlayerControl.cs for a flight similator desgined to be run within unity. It should work as is if you opened it in Unity, but we had to use this one specific slightly older version of Unity during the class, so I'm not sure. It also was written over a year ago.
